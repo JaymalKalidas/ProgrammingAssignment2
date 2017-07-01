@@ -1,4 +1,4 @@
-## Write a short comment describing this function
+## Project assignment creating a matrix and returning a cached inverse
 
 
 ##set the value of the vector
